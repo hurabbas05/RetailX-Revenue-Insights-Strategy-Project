@@ -12,7 +12,6 @@ By applying **data cleaning, exploratory data analysis (EDA), visualization, and
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Excel**: Data formatting & validation  
 - **Jupyter Notebook**: Analysis & reporting  
-- **PowerPoint/Canva**: Visual storytelling & presentation  
 
 ---
 
