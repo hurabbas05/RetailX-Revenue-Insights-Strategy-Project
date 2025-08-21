@@ -21,6 +21,7 @@ By applying **data cleaning, exploratory data analysis (EDA), visualization, and
 - **Cleaning/** → Cleaned dataset (RetailX_Cleaned_SyedHurAbbasNaqvi.xlsx)  
 - **Analysis/** → Jupyter Notebook with Python EDA & insights (RetailX_Analysis.ipynb)  
 - **Visuals/** → PDF & chart exports (RetailX_Visuals.pdf, Charts/)  
+- **Insights/** → PDF (RetailX_Insights_SyedHurAbbasNaqvi.pdf) 
 - **Strategy/** → SWOT-based business recommendations (RetailX_Strategy_SyedHurAbbasNaqvi.docx)  
 - **README.md** → Project documentation  
 
