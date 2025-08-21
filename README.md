@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 This project was completed as part of the **Data to Action Masterclass (Excelerate)**.  
-The goal was to analyze **RetailX sales and returns dataset** using **Python and Excel** to uncover actionable business insights, build visual reports, and provide strategic recommendations to optimize revenue and reduce product returns.  
+The objective was to analyze the **RetailX sales and returns dataset** using **Python and Excel** to uncover actionable business insights, create data visualizations, and provide strategic recommendations for revenue growth and return reduction.  
 
 By applying **data cleaning, exploratory data analysis (EDA), visualization, and strategy frameworks**, this project demonstrates how raw data can be transformed into **business intelligence that supports decision-making**.  
 
@@ -17,66 +17,56 @@ By applying **data cleaning, exploratory data analysis (EDA), visualization, and
 ---
 
 ## 📂 Project Structure  
-RetailX-Project/
-│
-├── Data/
-│ └── RetailX_sales_Dataset.xlsx # Original dataset (sample)
-│
-├── Cleaning/
-│ └── RetailX_Cleaned_SyedHurAbbasNaqvi.xlsx # Cleaned dataset
-│
-├── Analysis/
-│ └── RetailX_Analysis.ipynb # Python EDA + Insights
-│
-├── Visuals/
-│ ├── RetailX_Visuals.pdf # Key charts
-│ └── Charts/ # Individual chart exports
-│
-├── Strategy/
-│ └── RetailX_Strategy.pdf # SWOT-based recommendation
-│
-└── README.md # Project Documentation
+
+- **Data/** → Raw dataset (RetailX_Raw_Dataset.xlsx)  
+- **Cleaning/** → Cleaned dataset (RetailX_Cleaned_HurAbbas.xlsx)  
+- **Analysis/** → Jupyter Notebook with Python EDA & insights (RetailX_Analysis.ipynb)  
+- **Visuals/** → PDF & chart exports (RetailX_Visuals.pdf, Charts/)  
+- **Strategy/** → SWOT-based business recommendations (RetailX_Strategy_HurAbbas.docx)  
+- **README.md** → Project documentation  
+
+---
 
 
 ---
 
-## 🔎 Key Business Questions Answered  
-1. **Which region generated the highest total revenue?**  
-2. **Which product category had the highest return rate?**  
-3. **What is the average revenue per transaction?**  
-4. **Are there correlations between payment method and returns?**  
+## 🔎 Business Questions Answered  
+1. Which region generated the highest total revenue?  
+2. Which product category had the highest return rate?  
+3. What is the average revenue per transaction?  
+4. Are there correlations between payment method and returns?  
 
 ---
 
-## 📊 Visuals  
-- **Revenue by Region (Bar Chart)** → Identified high-performing regions.  
-- **Returns by Category (Pie Chart)** → Highlighted categories with the most product returns.  
-- **Sales Over Time (Line Chart)** → Trend analysis of sales performance.  
-- **Units Sold vs. Revenue (Scatter Plot)** → Explored sales-revenue relationships.  
+## 📊 Visuals & Analysis  
+- **Revenue by Region (Bar Chart):** North region generated the highest revenue, South and East underperformed.  
+- **Returns by Category (Pie Chart):** Electronics had the highest return rate, while Fitness products performed best with minimal returns.  
+- **Sales Over Time (Line Chart):** Sales followed an upward trend with promotional spikes and noticeable dips in low-activity months.  
+- **Units Sold vs. Revenue (Scatter Plot):** Strong positive correlation, with some outliers where high sales volume did not convert into proportional revenue (discount/low-margin items).  
 
 ---
 
 ## 📈 Insights & Findings  
-- **North & West regions** showed the strongest revenue performance.  
-- **Electronics category** had the highest return rate, signaling potential quality/expectation issues.  
-- **Average revenue per transaction** revealed opportunities to increase basket size.  
-- **COD (Cash on Delivery)** correlated with higher returns, suggesting a policy review could reduce losses.  
+- North region delivered the **highest revenue performance**, while South and East underperformed.  
+- Electronics category showed the **highest return rates**, highlighting improvement opportunities.  
+- Sales showed a **rising trend with seasonal spikes**, closely tied to promotions.  
+- A strong **positive correlation between units sold and revenue** was observed, with a few low-margin outliers.  
 
 ---
 
-## 🎯 Strategic Recommendation  
-Using a **SWOT framework**, the recommendation was:  
-
-- **Focus on high-revenue regions (North & West)** with increased marketing spend.  
-- **Address Electronics category return issues** by improving product descriptions/quality checks.  
-- **Encourage prepaid methods** over COD to reduce return rates.  
+## 🎯 Strategic Recommendations  
+- **Expand focus on North & West regions** to maximize revenue potential.  
+- **Reduce Electronics returns** by improving quality checks, product info, and post-sale support.  
+- **Capitalize on promotional peaks** by planning campaigns in high-demand months.  
+- **Promote Fitness category** as a profitable low-return product line.  
+- **Encourage prepaid payments** over COD to reduce return-associated risks.  
 
 ---
 
 ## 🚀 Key Takeaways  
-✔️ Demonstrates **end-to-end data analysis workflow** (cleaning → analysis → visualization → strategy).  
-✔️ Showcases ability to extract **actionable business insights** from raw data.  
-✔️ Highlights blend of **technical skills (Python, Excel)** and **business acumen (Revenue Optimization, BI)**.  
+✔️ Showcases an **end-to-end data analytics workflow**: cleaning → EDA → visualization → strategy.  
+✔️ Demonstrates ability to extract **actionable business insights** that directly impact revenue.  
+✔️ Highlights both **technical expertise (Python, Excel, Visualization)** and **business acumen (Revenue Optimization, BI)**.  
 
 ---
 
@@ -91,4 +81,3 @@ I specialize in turning raw data into **business intelligence that drives growth
 📞 **Phone:**     [+923036098700](tel:+923036098700)
 
 ---
-
