@@ -19,10 +19,10 @@ By applying **data cleaning, exploratory data analysis (EDA), visualization, and
 ## 📂 Project Structure  
 
 - **Data/** → Raw dataset (RetailX_Raw_Dataset.xlsx)  
-- **Cleaning/** → Cleaned dataset (RetailX_Cleaned_HurAbbas.xlsx)  
+- **Cleaning/** → Cleaned dataset (RetailX_Cleaned_SyedHurAbbasNaqvi.xlsx)  
 - **Analysis/** → Jupyter Notebook with Python EDA & insights (RetailX_Analysis.ipynb)  
 - **Visuals/** → PDF & chart exports (RetailX_Visuals.pdf, Charts/)  
-- **Strategy/** → SWOT-based business recommendations (RetailX_Strategy_HurAbbas.docx)  
+- **Strategy/** → SWOT-based business recommendations (RetailX_Strategy_SyedHurAbbasNaqvi.docx)  
 - **README.md** → Project documentation  
 
 ---
