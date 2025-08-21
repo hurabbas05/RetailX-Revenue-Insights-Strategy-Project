@@ -17,7 +17,7 @@ By applying **data cleaning, exploratory data analysis (EDA), visualization, and
 
 ## 📂 Project Structure  
 
-- **Data/** → Raw dataset (RetailX_Raw_Dataset.xlsx)  
+- **Data/** → Raw dataset (RetailX_Sales_Dataset.xlsx)  
 - **Cleaning/** → Cleaned dataset (RetailX_Cleaned_SyedHurAbbasNaqvi.xlsx)  
 - **Analysis/** → Jupyter Notebook with Python EDA & insights (RetailX_Analysis.ipynb)  
 - **Visuals/** → PDF & chart exports (RetailX_Visuals.pdf, Charts/)  
