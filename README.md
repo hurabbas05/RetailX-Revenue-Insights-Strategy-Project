@@ -80,9 +80,10 @@ Using a **SWOT framework**, the recommendation was:
 
 ---
 
-## 🙋‍♂️ Author       
-I’m **Syed Hur Abbas Naqvi**, a Certified Data Analyst skilled in **Python, SQL, Power BI, Tableau, and Excel**.  
-I specialize in turning raw data into **business intelligence that drives growth** — from **data cleaning & EDA** to **visualization & strategic insights**.  
+## 🙋‍♂️ Author
+
+I’m **Syed Hur Abbas Naqvi**, a Certified Data Analyst skilled in **Python, SQL, Microsoft Power BI, Excel, and Machine Learning**.  
+I specialize in turning raw data into **business intelligence that drives growth** — from **data cleaning & EDA** to **visualization & strategic insights**.
 
 🌐 **Portfolio:** [https://hurabbas05.github.io/](https://hurabbas05.github.io/)  
 🔗 **LinkedIn:**  [https://www.linkedin.com/in/hurabbas05/](https://www.linkedin.com/in/hurabbas05/)  
@@ -90,3 +91,4 @@ I specialize in turning raw data into **business intelligence that drives growth
 📞 **Phone:**     [+923036098700](tel:+923036098700)
 
 ---
+
